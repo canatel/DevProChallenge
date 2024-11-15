@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04ED9B14-872A-4DD2-AA52-915D19A1CE46}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\canat\\source\\repos\\tech-assesments\\inventorymanagement\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ED9B14-872A-4DD2-AA52-915D19A1CE46}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A1923D-DFE9-4B87-ADB7-1034C33F7331}|TestCases\\TestCases.csproj|c:\\users\\canat\\source\\repos\\tech-assesments\\testcases\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A1923D-DFE9-4B87-ADB7-1034C33F7331}|TestCases\\TestCases.csproj|solutionrelative:testcases\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8D99CD-35DC-4BEF-8C6E-DB8D9093380D}|LoggerApp\\LoggerApp.csproj|c:\\users\\canat\\source\\repos\\tech-assesments\\loggerapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8D99CD-35DC-4BEF-8C6E-DB8D9093380D}|LoggerApp\\LoggerApp.csproj|solutionrelative:loggerapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A1923D-DFE9-4B87-ADB7-1034C33F7331}|TestCases\\TestCases.csproj|c:\\users\\canat\\source\\repos\\tech-assesments\\testcases\\loggertestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A1923D-DFE9-4B87-ADB7-1034C33F7331}|TestCases\\TestCases.csproj|solutionrelative:testcases\\loggertestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\TestCases\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "TestCases\\InventoryTests.cs",
+              "ToolTip": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\TestCases\\InventoryTests.cs",
+              "RelativeToolTip": "TestCases\\InventoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:35:51.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\InventoryManagement\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Inventory.cs",
+              "ToolTip": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\InventoryManagement\\Inventory.cs",
+              "RelativeToolTip": "InventoryManagement\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:22:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\LoggerApp\\Logger.cs",
+              "RelativeDocumentMoniker": "LoggerApp\\Logger.cs",
+              "ToolTip": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\LoggerApp\\Logger.cs",
+              "RelativeToolTip": "LoggerApp\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:26:20.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerTestCases.cs",
+              "DocumentMoniker": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\TestCases\\LoggerTestCases.cs",
+              "RelativeDocumentMoniker": "TestCases\\LoggerTestCases.cs",
+              "ToolTip": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\TestCases\\LoggerTestCases.cs",
+              "RelativeToolTip": "TestCases\\LoggerTestCases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:57:13.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

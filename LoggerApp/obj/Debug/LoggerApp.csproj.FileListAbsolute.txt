@@ -1,0 +1,7 @@
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\bin\Debug\LoggerApp.exe.config
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\bin\Debug\LoggerApp.exe
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\bin\Debug\LoggerApp.pdb
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\obj\Debug\LoggerApp.csproj.AssemblyReference.cache
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\obj\Debug\LoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\obj\Debug\LoggerApp.exe
+C:\Users\canat\source\repos\Tech-Assesments\LoggerApp\obj\Debug\LoggerApp.pdb

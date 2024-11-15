@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smwE25VKXs8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\canat\\source\\repos\\Tech-Assesments\\DevPro-Tech-Assesment\\DevProTechAssesment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canat\\.nuget\\packages\\mstest.testframework\\3.6.1\\mstest.testframework.3.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
